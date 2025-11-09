@@ -1,0 +1,56 @@
+{
+  "name": "learn-react-native-hoidanit",
+  "author": {
+    "name": "Hỏi Dân IT",
+    "url": "https://hoidanit.vn"
+  },
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "dev": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-community/datetimepicker": "8.0.1",
+    "@react-native-picker/picker": "2.7.5",
+    "@react-navigation/bottom-tabs": "^6.6.1",
+    "@react-navigation/material-top-tabs": "^6.6.14",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@react-navigation/stack": "^6.3.21",
+    "@tanstack/react-query": "^5.90.5",
+    "@types/react-native": "^0.73.0",
+    "axios": "^1.12.2",
+    "expo": "^51.0.0",
+    "expo-file-system": "^19.0.17",
+    "expo-image-picker": "~15.0.7",
+    "expo-linear-gradient": "^15.0.7",
+    "expo-status-bar": "1.12.1",
+    "formik": "^2.4.6",
+    "lucide-react": "^0.548.0",
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "react-native-gesture-handler": "~2.28.0",
+    "react-native-pager-view": "^6.9.1",
+    "react-native-pie-chart": "^4.0.1",
+    "react-native-reanimated": "~4.1.1",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "^4.18.0",
+    "react-native-tab-view": "~3.5.2",
+    "react-native-vector-icons": "^10.3.0",
+    "yup": "^1.7.1",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@babel/core": "7.24.8",
+    "@types/axios": "^0.14.4",
+    "@types/react": "18.2.79",
+    "@types/react-navigation": "^3.0.8",
+    "typescript": "5.3.3"
+  },
+  "private": true
+}
